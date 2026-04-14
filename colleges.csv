@@ -1,0 +1,132 @@
+id,name,location,nirf_rank,avg_package,placement_percent,placement_confidence,data_source,last_updated,scholarship_type
+1,Adani University,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+2,Apollo University,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+3,ATLAS SkillTech University,"Mumbai, Maharashtra, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+4,Atria University,"Bangalore, Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+5,Avantika University,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+6,Acharya Institute of Technology,"Bangalore, Karnataka, India",(empty),4,60,0.4,Official Website,2026-04,UNSTRUCTURED
+7,Ahmedabad University,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+8,Akshaya College of Engineering,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+9,Alliance University,"Bangalore, Karnataka, India",71,4.75,78,0.8,Official Website,2026-04,STRUCTURED
+10,Amity University Noida,"Noida, Uttar Pradesh, India",37,8,88,1,Official Website,2026-04,STRUCTURED
+11,Amity University Gurugram,"Haryana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+12,Amity University Lucknow,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+13,Amrita University Coimbatore,"Tamil Nadu, India",8,9,90,1,Official Website,2026-04,STRUCTURED
+14,Amrita University Kochi,"Kerala, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+15,Amrita University Amritapuri,"Kerala, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+16,Amrita University Bengaluru,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+17,Amrita University Mysore,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+18,Amrita University Chennai,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+19,Amrita University Faridabad,"Haryana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+20,Amrita University Nagercoil,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+21,Amrita University Haridwar,"Uttarakhand, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+22,Bennett University,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+23,BEST Innovation University,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+24,BML Munjal University,"Haryana, India",77,6.5,80,0.8,Official Website,2026-04,STRUCTURED
+25,BMS Institute of Technology,"Karnataka, India",250,5.75,78,0.6,Official Website,2026-04,UNSTRUCTURED
+26,CT University,"Punjab, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+27,Chalapathi Institute,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+28,Chanakya University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+29,Chandigarh University,"Punjab, India",19,6,80,0.6,Official Website,2026-04,STRUCTURED
+30,Chinmaya Vishwa Vidyapeeth,"Kerala, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+31,Chitkara University,"Punjab, India",78,6,78,0.8,Official Website,2026-04,UNSTRUCTURED
+32,CMR University,"Bangalore, Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+33,DY Patil International University,"Pune, Maharashtra, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+34,Dayananda Sagar University,"Bangalore, Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+35,Dev Bhoomi University,"Uttarakhand, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+36,Dhanwantari Institutes,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+37,DIT University,"Dehradun, Uttarakhand, India",83,4.5,78,0.8,Official Website,2026-04,UNSTRUCTURED
+38,Dr MGR Educational Institute,"Chennai, Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+39,MIT World Peace University,"Pune, Maharashtra, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+40,Ganpat University,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+41,Garden City University,"Bangalore, Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+42,GD Goenka University,"Gurgaon, Haryana, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+43,GITAM University Hyderabad,"Hyderabad, Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+44,GITAM University Visakhapatnam,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+45,GITAM University Bangalore,"Bangalore, Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+46,GLA University Mathura,"Mathura, Uttar Pradesh, India",175,4.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+47,GLA University Noida Campus,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+48,Godavari Global University,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+49,Graphic Era University,"Uttarakhand, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+50,Guru Kashi University,"Punjab, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+51,Guru Nanak University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+52,Hindustan University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+53,ICFAI University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+54,IES University,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+55,Impact College of Engineering,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+56,Invertis University,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+57,ITM University,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+58,Jagran Lakecity University,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+59,Jain University,"Karnataka, India",(empty),3.5,60,0.6,Official Website,2026-04,UNSTRUCTURED
+60,JECRC University,"Rajasthan, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+61,JAIN (Deemed-to-be) / JOY University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+62,K N Modi University,"Rajasthan, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+63,K.R. Mangalam University,"Haryana, India",(empty),3.5,60,0.4,Official Website,2026-04,UNSTRUCTURED
+64,Kalasalingam University,"Tamil Nadu, India",48,8,88,1,Official Website,2026-04,UNSTRUCTURED
+65,Karnavati University,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+66,Karpagam University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+67,Karunya University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+68,Kishkinda University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+69,KIIT University (KITTEE),"Odisha, India",17,8,93,0.8,Official Website,2026-04,STRUCTURED
+70,KL University Vijayawada,"Andhra Pradesh, India",46,8,88,1,Official Website,2026-04,STRUCTURED
+71,KL University Hyderabad,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+72,Lamrin Tech Skills University,"Punjab, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+73,Lovely Professional University,"Punjab, India",31,5.5,75,0.6,Official Website,2026-04,STRUCTURED
+74,M.S. Ramaiah University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+75,Mahindra University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+76,Malla Reddy University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+77,Mangalayatan University,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+78,Marwadi University,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+79,Nagarjuna University,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+80,Noorul Islam University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+81,NITTE Meenakshi Institute of Technology,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+82,NMIMS University,"Karnataka, India",95,6.75,80,0.8,Official Website,2026-04,STRUCTURED
+83,Parul University Vadodara,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+84,PES University,"Karnataka, India",175,7,85,0.8,Official Website,2026-04,STRUCTURED
+85,Plaksha University,"Punjab, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+86,Parul University Goa Campus,"Goa, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+87,PP Savani University,"Gujarat, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+88,Presidency University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+89,Rajalakshmi Institute of Technology,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+90,Rathinam Group of Institutes,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+91,REVA University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+92,RP Sarathy Institute of Technology,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+93,RV University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+94,SRM Kattankulathur,"Tamil Nadu, India",11,6.7,85,0.8,Official Website,2026-04,STRUCTURED
+95,SRM Ramapuram,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+96,SRM Vadapalani,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+97,SRM NCR,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+98,SRM Tiruchirappalli,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+99,SRM Amaravati,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+100,SAGE University,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+101,Sai University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+102,Sandeep University,"Maharashtra, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+103,Sanjay Ghodawat University,"Maharashtra, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+104,Sanskaram University,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+105,Sanskriti University,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+106,Sapthagiri NPS University,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+107,SASTRA University,"Tamil Nadu, India",29,7.5,88,1,Official Website,2026-04,STRUCTURED
+108,Sathyabama Institute of Science and Technology,"Tamil Nadu, India",93,6,78,0.8,Official Website,2026-04,STRUCTURED
+109,Saveetha Engineering College,"Tamil Nadu, India",13,8,88,1,Official Website,2026-04,STRUCTURED
+110,Sharda University,"Uttar Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+111,Siksha 'O' Anusandhan,"Odisha, India",15,6,85,1,Official Website,2026-04,STRUCTURED
+112,Sir Padampat Singhania University,"Rajasthan, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+113,SR University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+114,Sreenidhi University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+115,Sri Ramachandra University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+116,SRM University,"Tamil Nadu, India",20,8,88,0.8,Official Website,2026-04,STRUCTURED
+117,St. Peter's University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+118,Starex University,"Haryana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+119,SVYASA,"Karnataka, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+120,Takshashila University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+121,Thapar Institute of Engineering & Technology,"Punjab, India",29,11,82,1,Official Website,2026-04,STRUCTURED
+122,Vel Tech University,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+123,Vignan,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+124,Vinayaka Mission's Research Foundation,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+125,VIT Vellore,"Tamil Nadu, India",11,7.8,88,1,Official Website,2026-04,STRUCTURED
+126,Vivekananda Global University,"Rajasthan, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+127,VVIT,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+128,Woxsen University,"Telangana, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+129, VIT CHENNAI,"Tamil Nadu, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+130,VIT BHOPAL,"Madhya Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
+131,VIT AP,"Andhra Pradesh, India",(empty),3.5,60,0.4,Official Website,2026-04,STRUCTURED
